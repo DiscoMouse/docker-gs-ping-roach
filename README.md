@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This repo is out-of-date and archived. The development continues at [docker/docker-gs-ping-roach](https://github.com/docker/docker-gs-ping-roach).
+> This repo is my own custom fork and not the offical Docker rep for the tutorial. The development continues at [docker/docker-gs-ping-roach](https://github.com/docker/docker-gs-ping-roach).
 
 # docker-gs-ping-roach
 
